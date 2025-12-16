@@ -83,7 +83,7 @@ These insights support payment strategy optimization and customer convenience pl
 
 •	Data Modeling & Relationships
 
-•	KPI Cards, Bar Charts, Donut Charts, Line Charts
+•	Cards, Bar Charts, Donut Charts, Line Charts
 
 •	Interactive Slicers
 
