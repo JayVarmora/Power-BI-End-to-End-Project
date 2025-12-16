@@ -8,12 +8,11 @@ It analyzes business performance across sales, orders, profit, customers, produc
 
 ## 🧩 Dashboard 1: Executive Sales Overview
 
-Purpose: High-level business performance tracking
+Purpose: High-level business performance tracking.
 
 Key Insights:
 
 •	Total Revenue: $24.9M
-
 •	Total Orders: 25.2K
 •	Total Profit: $10.5M
 •	Return Rate: 2.1%
@@ -27,7 +26,7 @@ Helps leadership quickly assess overall growth, profitability, and category perf
 
 ## 🌍 Dashboard 2: Regional & Geographic Analysis
 
-Purpose: Understand sales distribution across regions
+Purpose: Understand sales distribution across regions.
 
 Key Insights:
 
@@ -41,7 +40,7 @@ Identifies high-performing regions and supports regional expansion and marketing
 
 ## 🛒 Dashboard 3: Product Performance & Target Analysis
 
-Purpose: Product-level deep dive and target tracking
+Purpose: Product-level deep dive and target tracking.
 
 Key Insights:
 
@@ -56,7 +55,7 @@ Supports product optimization, pricing decisions, and performance monitoring aga
 
 ## 👥 Dashboard 4: Customer & Demographic Analysis
 
-Purpose: Analyze customer behavior and segmentation
+Purpose: Analyze customer behavior and segmentation.
 
 Key Insights:
 
