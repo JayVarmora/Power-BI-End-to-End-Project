@@ -13,11 +13,17 @@ Purpose: High-level business performance tracking.
 Key Insights:
 
 •	Total Revenue: $24.9M
+
 •	Total Orders: 25.2K
+
 •	Total Profit: $10.5M
+
 •	Return Rate: 2.1%
+
 •	Monthly revenue shows a consistent upward trend with forecasted growth.
+
 •	Accessories lead in order volume, followed by Bikes and Clothing.
+
 •	Top products like Water Bottle (30 oz) and Sport-100 Helmets contribute significantly to profit.
 
 Business Value:
@@ -31,7 +37,9 @@ Purpose: Understand sales distribution across regions.
 Key Insights:
 
 •	Orders visualized by country using a map-based view.
+
 •	Strong performance in North America, followed by Europe and Pacific regions.
+
 •	Region tabs enable easy comparison between continents.
 
 Business Value:
@@ -45,8 +53,11 @@ Purpose: Product-level deep dive and target tracking.
 Key Insights:
 
 •	Selected product analysis (e.g., Water Bottle – 30 oz)
+
 •	Monthly Orders, Revenue, and Profit compared against targets using gauge visuals.
+
 •	Revenue growth of 275%+ over the selected time period.
+
 •	Interactive metric selection (Orders, Revenue, Profit, Returns).
 
 Business Value:
@@ -60,10 +71,15 @@ Purpose: Analyze customer behavior and segmentation.
 Key Insights:
 
 •	Total Customers: 17.4K
+
 •	Revenue per Customer: $1,431
+
 •	Customer growth trend shows strong increase over time.
+
 •	Orders segmented by income level and occupation.
+
 •	Top customers identified by revenue contribution.
+
 •	High contribution from professional and skilled manual segments.
 
 Business Value:
@@ -73,9 +89,13 @@ Enables customer segmentation, loyalty analysis, and targeted marketing strategi
 ## 🛠 Tools & Techniques Used
 
 •	Power BI
+
 •	DAX Measures & Calculated Columns
+
 •	Date Hierarchies & Time Intelligence
+
 •	KPI Cards, Line Charts, Bar Charts, Maps, Gauges
+
 •	Interactive Slicers & Drill-Down Analysis
 
 
