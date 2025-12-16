@@ -87,6 +87,11 @@ These insights support payment strategy optimization and customer convenience pl
 
 •	Interactive Slicers
 
+## 🔎 Preview / Demos
+
+<img width="1434" height="803" alt="image" src="https://github.com/user-attachments/assets/38bf8f01-6d20-45fe-96ae-d4324c1c05cc" />
+
+
 ## ✅ Conclusion
 
 This dashboard provides a complete view of sales performance, profitability, customer behavior, and payment trends.
