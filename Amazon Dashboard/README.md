@@ -5,7 +5,7 @@ This project is a comprehensive E-commerce Sales Analytics Dashboard built using
 It analyzes business performance across sales, orders, profit, customers, products, and regions using interactive visuals, KPIs, and trend analysis to support data-driven decision making.
 
 
-🧩 Dashboard 1: Executive Sales Overview
+## 🧩 Dashboard 1: Executive Sales Overview
 
 Purpose: High-level business performance tracking
 
@@ -29,7 +29,7 @@ Business Value:
 Helps leadership quickly assess overall growth, profitability, and category performance.
 
 
-🌍 Dashboard 2: Regional & Geographic Analysis
+## 🌍 Dashboard 2: Regional & Geographic Analysis
 
 Purpose: Understand sales distribution across regions
 
@@ -45,7 +45,7 @@ Business Value:
 Identifies high-performing regions and supports regional expansion and marketing strategy.
 
 
-🛒 Dashboard 3: Product Performance & Target Analysis
+## 🛒 Dashboard 3: Product Performance & Target Analysis
 
 Purpose: Product-level deep dive and target tracking
 
@@ -63,7 +63,7 @@ Business Value:
 Supports product optimization, pricing decisions, and performance monitoring against targets.
 
 
-👥 Dashboard 4: Customer & Demographic Analysis
+## 👥 Dashboard 4: Customer & Demographic Analysis
 
 Purpose: Analyze customer behavior and segmentation
 
@@ -85,7 +85,7 @@ Business Value:
 Enables customer segmentation, loyalty analysis, and targeted marketing strategies.
 
 
-🛠 Tools & Techniques Used
+## 🛠 Tools & Techniques Used
 
 Power BI
 
@@ -98,7 +98,7 @@ KPI Cards, Line Charts, Bar Charts, Maps, Gauges
 Interactive Slicers & Drill-Down Analysis
 
 
-✅ Conclusion
+## ✅ Conclusion
 
 This project demonstrates end-to-end data visualization, business analysis, and storytelling using Power BI.
 It provides actionable insights into sales performance, regional trends, product success, and customer behavior, making it suitable for real-world business decision support.
