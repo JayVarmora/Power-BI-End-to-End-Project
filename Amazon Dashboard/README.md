@@ -98,6 +98,9 @@ Enables customer segmentation, loyalty analysis, and targeted marketing strategi
 
 •	Interactive Slicers & Drill-Down Analysis
 
+## Preview / Demos
+
+<img width="1416" height="796" alt="image" src="https://github.com/user-attachments/assets/b70adbf4-7bc0-41af-b3f0-1cb9d9650f15" />
 
 ## ✅ Conclusion
 
