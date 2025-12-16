@@ -13,6 +13,7 @@ Purpose: High-level business performance tracking
 Key Insights:
 
 •	Total Revenue: $24.9M
+
 •	Total Orders: 25.2K
 •	Total Profit: $10.5M
 •	Return Rate: 2.1%
