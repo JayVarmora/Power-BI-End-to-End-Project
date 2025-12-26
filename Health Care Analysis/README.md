@@ -1,4 +1,4 @@
-# 🏥 US Healthcare Industry Analytics Dashboard (2020) – Power BI
+# 🏥 US Healthcare Industry Analytics Dashboard – Power BI
 
 ## 📌 Project Overview
 This Power BI project analyzes **US Healthcare Industry data for the year 2020**, focusing on **payments, patients, hospitals, providers, and CPT utilization**.  
@@ -90,23 +90,35 @@ The dashboard is designed to help stakeholders understand **financial performanc
 
 ---
 
-## 🧠 Skills Demonstrated
-- Power BI Dashboard Design
-- DAX Measures & KPIs
-- Healthcare Domain Analytics
-- Data Modeling (Star Schema)
-- Time Intelligence Analysis
-- Interactive Slicers & Drilldowns
-- Business Insight Generation
-
----
-
 ## 🛠 Tools & Technologies
 - **Power BI Desktop**
 - **DAX**
 - **Power Query**
 - **Data Visualization & Modeling**
 
----
+## 🔎 Preview / Demos
+**Executive Summary:**
 
-## 📂 Repository Structure
+<img width="1356" height="763" alt="image" src="https://github.com/user-attachments/assets/cdfad364-7b28-4871-a689-a8d0f9626a65" />
+
+
+**Patient Analysis:**
+
+<img width="1424" height="803" alt="image" src="https://github.com/user-attachments/assets/481ea106-8948-4119-bbb6-5b856b6a5241" />
+
+
+**Geographic Analysis:**
+
+<img width="1426" height="805" alt="image" src="https://github.com/user-attachments/assets/f9be5da5-4cb9-498d-9431-9a07af68f9ff" />
+
+
+**Hospital Analysis:**
+
+<img width="1428" height="807" alt="image" src="https://github.com/user-attachments/assets/5ae1745c-08b8-4b3e-b5fa-5fbcbe9a5676" />
+
+
+**Provider Analysis:**
+
+<img width="1424" height="802" alt="image" src="https://github.com/user-attachments/assets/98368163-f798-4a70-ad24-d79bcfacc9b7" />
+
+
