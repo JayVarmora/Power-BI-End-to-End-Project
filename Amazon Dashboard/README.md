@@ -100,7 +100,22 @@ Enables customer segmentation, loyalty analysis, and targeted marketing strategi
 
 ## 🔎 Preview / Demos
 
+### Executive Sales Overview:
+
 <img width="1416" height="796" alt="image" src="https://github.com/user-attachments/assets/b70adbf4-7bc0-41af-b3f0-1cb9d9650f15" />
+
+### Regional & Geographic Analysis:
+
+<img width="1414" height="794" alt="image" src="https://github.com/user-attachments/assets/8cd54462-594d-4620-9677-5ecfc06aeab7" />
+
+### Product Performance & Target Analysis:
+
+<img width="1418" height="794" alt="image" src="https://github.com/user-attachments/assets/f90313a9-63f5-406a-814e-16a1e23eb601" />
+
+### Customer & Demographic Analysis:
+
+<img width="1417" height="795" alt="image" src="https://github.com/user-attachments/assets/5be5c00d-aaf8-4d4f-82bc-14756afecbee" />
+
 
 ## ✅ Conclusion
 
