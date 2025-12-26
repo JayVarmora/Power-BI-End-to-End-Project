@@ -97,28 +97,32 @@ The dashboard is designed to help stakeholders understand **financial performanc
 - **Data Visualization & Modeling**
 
 ## 🔎 Preview / Demos
-**Executive Summary:**
+### Executive Summary:
 
 <img width="1356" height="763" alt="image" src="https://github.com/user-attachments/assets/cdfad364-7b28-4871-a689-a8d0f9626a65" />
 
 
-**Patient Analysis:**
+### Patient Analysis:
 
 <img width="1424" height="803" alt="image" src="https://github.com/user-attachments/assets/481ea106-8948-4119-bbb6-5b856b6a5241" />
 
 
-**Geographic Analysis:**
+### Geographic Analysis:
 
 <img width="1426" height="805" alt="image" src="https://github.com/user-attachments/assets/f9be5da5-4cb9-498d-9431-9a07af68f9ff" />
 
 
-**Hospital Analysis:**
+### Hospital Analysis:
 
 <img width="1428" height="807" alt="image" src="https://github.com/user-attachments/assets/5ae1745c-08b8-4b3e-b5fa-5fbcbe9a5676" />
 
 
-**Provider Analysis:**
+### Provider Analysis:
 
 <img width="1424" height="802" alt="image" src="https://github.com/user-attachments/assets/98368163-f798-4a70-ad24-d79bcfacc9b7" />
+
+## ✅ Conclusion
+This Power BI project provides a comprehensive view of the US Healthcare Industry by integrating financial, patient, hospital, and provider insights into a single interactive dashboard. It helps stakeholders quickly identify trends, performance gaps, and opportunities for informed, data-driven decision-making through clear KPIs and intuitive visualizations.
+
 
 
